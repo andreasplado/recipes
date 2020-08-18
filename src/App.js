@@ -34,6 +34,9 @@ const App = () => {
   }
 
   return (
+    <head>
+    <title>Eesti toidud</title>
+    </head>
     <div className="App">
       <form className="search-form" onSubmit={getSearch}>
         <input className="search-bar" type="text" value={search} onChange={updateSearch} />
