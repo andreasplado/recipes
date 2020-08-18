@@ -16,3 +16,4 @@ npm start
 ```
 
 Now you can run!
+Website available at https://estonia-recipes.herokuapp.com/
